@@ -478,7 +478,7 @@
         <ctl name="RX_COMP2 Switch" value="0" />
         <ctl name="RX INT0 DEM MUX" value="CLSH_DSM_OUT" />
         <ctl name="RX_CDC_DMA_RX_0 Channels" value="One" />
-        <ctl name="RX_RX0 Digital Volume" value="90" />
+        <ctl name="RX_RX0 Digital Volume" value="93" />
         <ctl name="EAR PA GAIN" value="G_6_DB" />
     </path>
 
